@@ -1,0 +1,5 @@
+[31-Jan-2022 11:42:25 UTC] PHP Warning:  Use of undefined constant new_cookie_key - assumed 'new_cookie_key' (this will throw an Error in a future version of PHP) in /home/netitcom/public_html/presta17/app/config/parameters.php on line 23
+[31-Jan-2022 06:42:30 US/Eastern] PHP Warning:  session_set_cookie_params(): Cannot change session cookie parameters when headers already sent in /home/netitcom/public_html/presta17/src/Core/Session/SessionHandler.php on line 108
+[31-Jan-2022 06:42:33 US/Eastern] PHP Warning:  Use of undefined constant new_cookie_key - assumed 'new_cookie_key' (this will throw an Error in a future version of PHP) in /home/netitcom/public_html/presta17/app/config/parameters.php on line 23
+[31-Jan-2022 06:42:41 US/Eastern] PHP Warning:  Use of undefined constant new_cookie_key - assumed 'new_cookie_key' (this will throw an Error in a future version of PHP) in /home/netitcom/public_html/presta17/app/config/parameters.php on line 23
+[31-Jan-2022 06:42:49 US/Eastern] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/netitcom/public_html/presta17/classes/controller/FrontController.php on line 744
